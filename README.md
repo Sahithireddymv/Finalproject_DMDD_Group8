@@ -3,8 +3,11 @@
 
 <h2 align="center">“There are no big problems, there are just a lot of little problems”</h2>
 
-<span align="centre">![03d10d06-8a0d-489e-af18-b0637ef86bc5](https://user-images.githubusercontent.com/113794059/216233418-a775ecc7-41fb-43e0-84b4-ae56816817db.png)
-![0173a47c-8253-4468-ad97-a9e36e7c5fbf](https://user-images.githubusercontent.com/113794059/216233538-74e28fa4-d13d-4b13-8f17-b5a7f006d73d.png) </span>
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/113794059/216233418-a775ecc7-41fb-43e0-84b4-ae56816817db.png">
+     <img width="33%" src="https://user-images.githubusercontent.com/113794059/216233538-74e28fa4-d13d-4b13-8f17-b5a7f006d73d.png">
+</p>
+
 <h3>Overview:</h3>
 
 
