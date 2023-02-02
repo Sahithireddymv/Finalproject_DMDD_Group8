@@ -18,11 +18,11 @@ In this project we will create a centralized database for “RedEye”, Northeas
 Many students in Northeastern University do not live on campus due to limited housing facilities, so they opt for housing near the university. Due to different schedules and availability, students are usually caught up at the university at odd timings. Staying at the campus for extended periods of time, some students are at the library, some working on campus, and some may be working out or training for their respective rec activities. Northeastern University for this purpose provides a drop-off facility called Redeye which provides free transport to university students from the university to their drop-off locations given that the drop-off locations be within a 2-mile radius of the university. A centralized database will allow the students or faculty to be able to book the Redeye facility to utilize features like pick-up/drop to the desired location. By reducing data redundancy and setting the pick-up location as Snell library by default can optimize the booking time and ensure students and faculties can find a redeye easier.
 
 <h3>Purpose:</h3>
-•	Streamline Transportation Operations: To optimize transportation operations by automating scheduling, cancelling, and tracking of vehicles, drivers, and the passengers
-•	Improve Passengers Experience: The database system will provide students and the staff with up-to-date information on the availability of Redeye transportation services and help them plan their commutes more effectively
-•	Increase Efficiency: To reduce manual processes and help streamline communication between drivers, passengers, and management staffs, leading to increased efficiency
-•	Safety and security: The system will enhance safety and security for passengers by monitoring the location of vehicles and providing real-time information to drivers and passengers.
-•	Enhanced Analytics: The database system will provide enhanced analytics capabilities, including detailed reports and insights into transportation trends and patterns
+•	Streamline Transportation Operations: To optimize transportation operations by automating scheduling, cancelling, and tracking of vehicles, drivers, and the passengers<br>
+•	Improve Passengers Experience: The database system will provide students and the staff with up-to-date information on the availability of Redeye transportation services and help them plan their commutes more effectively<br>
+•	Increase Efficiency: To reduce manual processes and help streamline communication between drivers, passengers, and management staffs, leading to increased efficiency<br>
+•	Safety and security: The system will enhance safety and security for passengers by monitoring the location of vehicles and providing real-time information to drivers and passengers.<br>
+•	Enhanced Analytics: The database system will provide enhanced analytics capabilities, including detailed reports and insights into transportation trends and patterns<br>
 
 <br>Project Group Details<br>
 Group: 8<br>
