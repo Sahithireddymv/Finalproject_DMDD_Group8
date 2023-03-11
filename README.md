@@ -66,6 +66,34 @@ The following are the different entities stored in the database.
 
 11. Vehicle: This entity represents the vehicles used in the transport system. The vehicle entity is crucial for guaranteeing reliability and safety. Vehicle can be of two types i.e., Van or Bus 
 
+<h3>Entities with some of their attributes:</h3>
+
+Person: PersonID, Name, ContactInfo, Address, DateOfBirth, SSN, PersonType 
+
+NUPolice: OfficerID, Position 
+
+Driver: DriverID 
+
+Passenger: PassengerID, PassengerType 
+
+Query: QueryID, Description, NupdID, UserID 
+
+Schedule: ScheduleID, ScheduleTime, ScheduleDate, RouteID, VehicleID, BookingID 
+
+Cancellation: CancellationID, CancellationTime, Status, PassengerID, ScheduleID 
+
+Booking: BookingID, Status, PassengerID, VehicleID 
+
+Route: RouteID, StartingPoint, EndPoint, Estimated time of travel 
+
+Passenger Location: PassengerLocationID, PassengerID Address 
+
+Vehicle:VehicleID, LicenseNumber,  VehicleType, Capacity, RouteID, MaintainenceHistory 
+
+Delay Monitor: DelayID, ScheduleID, DriverID, Action, RouteID, VehicleID, Booking ID, Date 
+
+ 
+
 <h3>Business Rules:</h3> 
 
 Below are some of the possible Business Rules that will be implemented in our system: - 
