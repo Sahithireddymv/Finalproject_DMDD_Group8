@@ -607,6 +607,13 @@ DROP COLUMN SSN;
 -- Rename the encrypted SSN column to SSN
 EXEC sp_rename 'Person.SSN_Encrypted', 'SSN', 'COLUMN';
 
+-- DECRYPTION
+-- SELECT *,
+-- CONVERT(int, DecryptByKey([SSN]))
+-- AS 'Decrypted SSN'
+-- FROM Person;
+-- GO
+
 -- Select * from Person
 
 
